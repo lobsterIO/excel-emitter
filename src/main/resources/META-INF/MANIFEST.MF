@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Excel-Emitter2
+Bundle-SymbolicName: Excel-Emitter2;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: xls_emitter2.Activator
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.birt.report.engine
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
